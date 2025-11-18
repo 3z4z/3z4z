@@ -5,8 +5,6 @@
 I build modern, responsive, and user-friendly web applications using MERN stack.  
 Passionate about UI/UX, animations, and creating smooth digital experiences.
 
----
-
 ## About Me
 
 - Expert in MERN stack development.
@@ -18,6 +16,8 @@ Passionate about UI/UX, animations, and creating smooth digital experiences.
 ---
 
 ## Tech Stack
+
+---
 
 #### **Frontend**
 
@@ -38,8 +38,6 @@ Passionate about UI/UX, animations, and creating smooth digital experiences.
   <img src="https://img.shields.io/badge/SwiperJS-008EFF?style=for-the-badge&logo=swiperjs&logoColor=white" />
 </p>
 
----
-
 #### **Backend**
 
 <p>
@@ -49,16 +47,12 @@ Passionate about UI/UX, animations, and creating smooth digital experiences.
   <img src="https://img.shields.io/badge/JWT-000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 </p>
 
----
-
 #### **Database**
 
 <p>
   <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
 </p>
-
----
 
 #### **Version Control & Tools**
 
@@ -68,8 +62,6 @@ Passionate about UI/UX, animations, and creating smooth digital experiences.
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
-
----
 
 #### **Others**
 
@@ -81,8 +73,6 @@ Passionate about UI/UX, animations, and creating smooth digital experiences.
   <img src="https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
----
-
 #### **Design & UI Tools**
 
 <p>
@@ -91,8 +81,6 @@ Passionate about UI/UX, animations, and creating smooth digital experiences.
   <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 </p>
-
----
 
 #### **Other Skills**
 
@@ -104,6 +92,8 @@ Passionate about UI/UX, animations, and creating smooth digital experiences.
 ---
 
 ## Featured Projects
+
+---
 
 ### **Personal Portfolio**
 
@@ -117,16 +107,12 @@ Complete MERN stack project that offers a curated collection of tools, guides, a
 
 A MERN stack based project that lets share our foods specially leftovers around the society to lower the food waste and increase social bonding.
 
----
-
 ## GitHub Stats
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=3z4z&show_icons=true&theme=tokyonight" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3z4z&layout=compact&theme=tokyonight" />
 </p>
-
----
 
 ## Connect With Me
 
@@ -136,8 +122,6 @@ A MERN stack based project that lets share our foods specially leftovers around 
 - 💼 **LinkedIn:** [Md. Salman Ezaz](https://www.linkedin.com/in/md-salmanezaz)
 - **Whatsapp:** [01632095012](https://wa.me/01632095012)
 - **Facebook:** [Md. Salman Ezaz](https://fb.me/sakib.salmanezaz.1)
-
----
 
 ## Fun Fact
 
