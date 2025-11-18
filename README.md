@@ -1,13 +1,8 @@
 <img src='./cover.jpg'/>
 
-# I'm **Md. Salman Ezaz**
-
-### A Web Developer & Frontend Designer
-
-I build modern, responsive, and user-friendly web applications using MERN stack.  
-Passionate about UI/UX, animations, and creating smooth digital experiences.
-
 ## About Me
+
+I am **Md. Salman Ezaz**. I am a Web Developer. I build modern, responsive, and user-friendly web applications using MERN stack.I am very passionate about UI/UX, animations, and creating smooth digital experiences.
 
 - Expert in MERN stack development.
 - Focused on full-stack engineering & clean UI
