@@ -1,13 +1,13 @@
-# 👋 Hi, I'm **Md. Salman Ezaz**
+# Hi, I'm **Md. Salman Ezaz**
 
-### 🚀 Web Designer & Frontend Developer
+### Web Developer & Frontend Designer
 
-I build modern, responsive, and user-friendly web applications using **React** and **TailwindCSS**.  
+I build modern, responsive, and user-friendly web applications using MERN stack.  
 Passionate about UI/UX, animations, and creating smooth digital experiences.
 
 ---
 
-## 🧩 About Me
+## About Me
 
 - Expert in MERN stack development.
 - Focused on full-stack engineering & clean UI
@@ -17,7 +17,7 @@ Passionate about UI/UX, animations, and creating smooth digital experiences.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 #### **Frontend**
 
@@ -134,8 +134,8 @@ A MERN stack based project that lets share our foods specially leftovers around 
 - 📧 **Email:** [md.salmanezaz@gmail.com](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=mdsalmanezaz@gmail.com)
 - 🎮 **YouTube:** [Nephilim’s Edge](https://www.youtube.com/@NephilimsEdge)
 - 💼 **LinkedIn:** [Md. Salman Ezaz](https://www.linkedin.com/in/md-salmanezaz)
-- **Whatsapp:** whatsapp phone
-- **Facebook:** facebook id
+- **Whatsapp:** [01632095012](https://wa.me/01632095012)
+- **Facebook:** [Md. Salman Ezaz](https://fb.me/sakib.salmanezaz.1)
 
 ---
 
