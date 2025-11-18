@@ -4,7 +4,7 @@
 
 I am **Md. Salman Ezaz**. I am a Web Developer. I build modern, responsive, and user-friendly web applications using MERN stack.I am very passionate about UI/UX, animations, and creating smooth digital experiences.
 
-- Expert in MERN stack development.
+- Expert in MERN stack based web development
 - Focused on full-stack engineering & clean UI
 - Love building reusable, scalable components
 - Designer who codes — crafting UI + logic together
