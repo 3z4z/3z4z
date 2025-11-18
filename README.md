@@ -108,10 +108,10 @@ A MERN stack based project that lets share our foods specially leftovers around 
 
 ## Connect With Me
 
-- 🌎 **Portfolio:** [3z4z Portfolio](https://3z4z-portfolio.vercel.app/)
-- 📧 **Email:** [md.salmanezaz@gmail.com](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=mdsalmanezaz@gmail.com)
-- 🎮 **YouTube:** [Nephilim’s Edge](https://www.youtube.com/@NephilimsEdge)
-- 💼 **LinkedIn:** [Md. Salman Ezaz](https://www.linkedin.com/in/md-salmanezaz)
+- **Portfolio:** [3z4z Portfolio](https://3z4z-portfolio.vercel.app/)
+- **Email:** [md.salmanezaz@gmail.com](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=mdsalmanezaz@gmail.com)
+- **YouTube:** [Nephilim’s Edge](https://www.youtube.com/@NephilimsEdge)
+- **LinkedIn:** [Md. Salman Ezaz](https://www.linkedin.com/in/md-salmanezaz)
 - **Whatsapp:** [01632095012](https://wa.me/01632095012)
 - **Facebook:** [Md. Salman Ezaz](https://fb.me/sakib.salmanezaz.1)
 
