@@ -13,11 +13,7 @@ Passionate about UI/UX, animations, and creating smooth digital experiences.
 - Designer who codes — crafting UI + logic together
 - Always stay updated to latest web techs and UI tools
 
----
-
 ## Tech Stack
-
----
 
 #### **Frontend**
 
@@ -89,11 +85,7 @@ Passionate about UI/UX, animations, and creating smooth digital experiences.
   <img src="https://img.shields.io/badge/MS%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" />
 </p>
 
----
-
 ## Featured Projects
-
----
 
 ### **Personal Portfolio**
 
